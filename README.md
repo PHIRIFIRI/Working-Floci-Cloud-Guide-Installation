@@ -1,10 +1,13 @@
-<img width="1917" height="1078" alt="Screenshot 2026-11-13 145115" src="https://github.com/user-attachments/assets/c6be1d40-fbd0-463f-a5cd-2964f0c4a442" /># Working-Floci-Cloud-Guide-Installation
+Working-Floci-Cloud-Guide-Installation
 Build a document storage environment using Azure Blob Storage.  Imagine an organisation needs to store documents, reports and invoices in the cloud.  I will implement: - A storage container. - File uploads. - File downloads. - File listing. - Cloud storage connection strings.
 
 THIS IS FOR EDUCATIONAL PURPOSE ONLY...
 
 OUR GOAL
+
 <img width="707" height="621" alt="Screenshot 2026-11-13 152148" src="https://github.com/user-attachments/assets/42b68a7f-5a66-41e9-8a9b-b9e6085f0766" />
+
+
 The architecture works as follows:
 1. You run Floci CLI.
 2. Floci starts the Floci-AZ Docker container.
